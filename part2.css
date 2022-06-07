@@ -1,0 +1,25 @@
+body{
+    background-color: #0369a1;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(55, 226, 21);
+}
+#name{
+    width: 80%;
+    padding:5px;
+    border-radius: 5%;
+    outline: 0;
+    border: 1px solid lightgrey;
+
+}
+table{
+    color:white;
+    background-color: rgb(8, 48, 80);
+    border-collapse: collapse;
+    front-family: serif;
+    padding: 5px;
+    border:5px solid white;
+    text-align: "webkit"center;
+}
